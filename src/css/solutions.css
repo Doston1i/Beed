@@ -1,0 +1,53 @@
+#section1{
+   
+    min-height: 500px;
+background-image: url(../../src/img/Solutions/Solutions/Solutions_bg-top.png);
+background-color: #002660f0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#lms{
+   
+    min-height: 500px;
+     background-image: url(../../src/img/Solutions/LMS/300ppi/lms-bg.png); 
+    background-color: #002660f0;
+    background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+}
+#journey{
+ 
+    min-height: 500px;
+     background-image: url(../../src/img/Solutions/Journeys/300ppi/journey-bg.png); 
+    background-color: #002660f0;
+    background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+}
+
+#nexus{
+    min-height: 500px;
+     background-image: url(../../src/img/Solutions/Nexus/300ppi/nexus-bg.png); 
+    background-color: #002660f0;
+    background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+}
+#nexus2{
+    background-image: url(../../src/img/Solutions/Nexus/300ppi/nexus-11.png);
+    background-color: #003d87;
+    background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+       
+}
+
+#nexus3{
+   
+    background: url(../../src/img/Solutions/Nexus/300ppi/nexus-7.png);
+    background-color: #003d87;
+    background-size: contain;
+        background-position: center;
+        background-repeat: no-repeat;
+}
